@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+body{
+  height: full;
+}
+button {
+  padding: 8px;
+}
+
+p{
+  color: white;
+}
+
+input {
+  padding: 8px;
+  outline: none;
+}
